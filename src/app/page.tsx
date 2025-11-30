@@ -9,7 +9,7 @@ import Testimonial from '@/components/SharedComponent/Testimonial'
 import Blog from '@/components/SharedComponent/Blog'
 import Contactform from '@/components/Home/Contact';
 export const metadata: Metadata = {
-  title: "Venus",
+  title: "Effinity",
 };
 
 export default function Home() {
@@ -20,7 +20,6 @@ export default function Home() {
       <Progresswork isColorMode={false} />
       <Services />
       <Portfolio />
-      <Testimonial />
       <Blog />
       <Contactform />
     </main>

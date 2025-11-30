@@ -36,18 +36,13 @@ export const Progress = [
 export const Servicebox = [
     {
         icon: getImgPath('/images/services/ux-design-product_1.svg'),
-        title: 'UX & Product Design',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        title: 'Starter Pack',
+        description: 'Simple automation without api integration for small tasks and workflows.',
     },
     {
         icon: getImgPath('/images/services/perfomance-optimization.svg'),
-        title: 'Performance Optimization',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    },
-    {
-        icon: getImgPath('/images/services/ux-design-product_2.svg'),
-        title: 'UX & Products Design',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        title: 'Business Pack',
+        description: 'Advanced automation with api integration for business complex tasks and workflows.',
     },
 ]
 

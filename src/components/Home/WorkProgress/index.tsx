@@ -51,7 +51,7 @@ const Progresswork = ({ isColorMode }: { isColorMode: Boolean }) => {
               </span>
             </div>
             <h2 className='pt-9 pb-8 text-midnight_text font-bold dark:text-white text-4xl'>
-              Build amazing websites and landing pages with ease
+              Build automations with ease
             </h2>
             <p className='text-gray dark:text-white/70 text-base font-semibold'>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

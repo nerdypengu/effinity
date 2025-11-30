@@ -7,20 +7,20 @@ const Logo: React.FC = () => {
   return (
     <Link href="/">
       <Image
-        src={getImgPath("/images/logo/logo.svg")}
+        src={getImgPath("/images/logo/logo_effinity.png")}
         alt="logo"
-        width={160}
+        width={100}
         height={50}
-        style={{ width: 'auto', height: 'auto' }}
+        style={{ width: 160, height: 80, paddingBottom: '20px' }}
         quality={100}
         className='dark:hidden'
       />
       <Image
-        src={getImgPath("/images/logo/logo-white.svg")}
+        src={getImgPath("/images/logo/logo_effinity.png")}
         alt="logo"
         width={160}
         height={50}
-        style={{ width: 'auto', height: 'auto' }}
+        style={{ width: 160, height: 80, paddingBottom: '20px' }}
         quality={100}
         className='dark:block hidden'
       />
