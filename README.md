@@ -1,12 +1,4 @@
-# Venus Free Next.js Website Template
-
-#### Preview
-
-- [Demo](https://themewagon.github.io/venus-nextjs/)
-
-#### Download
-
-- [Download from ThemeWagon](https://themewagon.com/themes/venus-nextjs/)
+## EFFINITY HOME PAGE
 
 ## Getting Started
 
