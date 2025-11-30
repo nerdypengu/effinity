@@ -12,11 +12,11 @@ const Footer: FC = () => {
             <div className='sm:content-normal sm:text-start text-center content-center sm:w-auto w-full'>
               <Link href='/' className='md:block flex justify-center'>
                 <Image
-                  src={getImgPath('/images/logo/logo-white.svg')}
+                  src={getImgPath('/images/logo/logo_effinity.png')}
                   alt='logo'
-                  width={160}
+                  width={200}
                   height={50}
-                  style={{ width: 'auto', height: 'auto' }}
+                  style={{ width: '200', height: '50' }}
                   quality={100}
                   unoptimized
                 />
@@ -174,20 +174,7 @@ const Footer: FC = () => {
         </div>
         <div>
           <p className='text-base text-white/50'>
-            © All rights reserved. Made by{' '}
-            <Link
-              href='https://getnextjstemplates.com/'
-              target='_blank'
-              className='hover:text-primary'>
-              GetNextJs Templates
-            </Link>{' '}
-            • Distributed by
-            <Link
-              href='https://themewagon.com/'
-              target='_blank'
-              className='hover:text-primary'>
-              {' '}ThemeWagon
-            </Link>
+            © All rights reserved. Made by Effinity 2025
           </p>
         </div>
       </div>
