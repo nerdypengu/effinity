@@ -49,7 +49,7 @@ const Footer: FC = () => {
                 <Link
                   href='mailto:info@venus.com'
                   className='text-2xl text-white/50 hover:text-white'>
-                  info@Venus.com
+                  effinity@gmail.com
                 </Link>
               </div>
               <div>

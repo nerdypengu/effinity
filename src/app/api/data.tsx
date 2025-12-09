@@ -28,9 +28,9 @@ export const count = [
 ];
 
 export const Progress = [
-    { title: 'UX Research and Testing', Progress: 95 },
+    { title: 'Workflow Research and Testing', Progress: 95 },
     { title: 'Product Management', Progress: 84 },
-    { title: 'UI & Visual Design', Progress: 90 }
+    { title: 'Website and App Integration', Progress: 90 }
 ];
 
 export const Servicebox = [
@@ -52,7 +52,7 @@ export const portfolioinfo = [
     {
         image: getImgPath('/images/portfolio/cozycasa.png'),
         alt: 'Portfolio',
-        title: 'Cozycasa',
+        title: 'Support Ticket Automation',
         slug: 'Cozycasa',
         info: 'Designation',
         Class: 'md:mt-0'
@@ -60,7 +60,7 @@ export const portfolioinfo = [
     {
         image: getImgPath('/images/portfolio/mars.png'),
         alt: 'Portfolio',
-        title: 'Mars',
+        title: 'Automatic Money Management System',
         slug: 'Mars',
         info: 'Designation',
         Class: 'md:mt-24'
@@ -68,7 +68,7 @@ export const portfolioinfo = [
     {
         image: getImgPath('/images/portfolio/humans.png'),
         alt: 'Portfolio',
-        title: 'Everyday Humans',
+        title: 'Scheduler Automation for Meetings',
         slug: 'everyday-humans',
         info: 'Designation',
         Class: 'md:mt-0'
@@ -76,7 +76,7 @@ export const portfolioinfo = [
     {
         image: getImgPath('/images/portfolio/roket-squred.png'),
         alt: 'Portfolio',
-        title: 'Rocket Squared',
+        title: 'Chatbot for Customer Service',
         slug: 'rocket-squared',
         info: 'Designation',
         Class: 'md:mt-24'
@@ -84,7 +84,7 @@ export const portfolioinfo = [
     {
         image: getImgPath('/images/portfolio/panda-logo.png'),
         alt: 'Portfolio',
-        title: 'Panda Logo',
+        title: 'Automatic Content Generator',
         slug: 'panda-logo',
         info: 'Designation',
         Class: 'md:mt-0'
@@ -92,7 +92,7 @@ export const portfolioinfo = [
     {
         image: getImgPath('/images/portfolio/humans.png'),
         alt: 'Portfolio',
-        title: 'Fusion Dynamics',
+        title: 'AI-powered email reply bot',
         slug: 'fusion-dynamics',
         info: 'Designation',
         Class: 'md:mt-0'
@@ -100,7 +100,7 @@ export const portfolioinfo = [
     {
         image: getImgPath('/images/portfolio/cozycasa.png'),
         alt: 'Portfolio',
-        title: 'InnovateX Ventures',
+        title: 'Scrape market or competitor data',
         slug: 'innovate-x-ventures',
         info: 'Designation',
         Class: 'md:mt-24'
@@ -108,7 +108,7 @@ export const portfolioinfo = [
     {
         image: getImgPath('/images/portfolio/mars.png'),
         alt: 'Portfolio',
-        title: 'Nebula Holdings',
+        title: 'Auto-sync orders between marketplace and inventory system',
         slug: 'nebula-holdings',
         info: 'Designation',
         Class: 'md:mt-0'
@@ -116,7 +116,7 @@ export const portfolioinfo = [
     {
         image: getImgPath('/images/portfolio/panda-logo.png'),
         alt: 'Portfolio',
-        title: 'Summit Partners',
+        title: 'Automated contract creation and e-signature workflows',
         slug: 'summit-partners',
         info: 'Designation',
         Class: 'md:mt-24'
@@ -124,7 +124,7 @@ export const portfolioinfo = [
     {
         image: getImgPath('/images/portfolio/roket-squred.png'),
         alt: 'Portfolio',
-        title: 'Apex Strategies',
+        title: 'Automate shift scheduling and reminders',
         slug: 'apex-strategies',
         info: 'Designation',
         Class: 'md:mt-0'

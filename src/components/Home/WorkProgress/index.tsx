@@ -54,9 +54,7 @@ const Progresswork = ({ isColorMode }: { isColorMode: Boolean }) => {
               Build automations with ease
             </h2>
             <p className='text-gray dark:text-white/70 text-base font-semibold'>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis
-              ipsum suspendisse ultrices gravida.
+              At our core, we believe automation should be simple, affordable, and accessible to everyone — not just developers. We specialize in building tailored workflow automations using platforms like n8n, allowing you to connect your apps, streamline operations, and remove manual work that slows your team down.
             </p>
 
             <div className='block mx-auto pt-12'>
