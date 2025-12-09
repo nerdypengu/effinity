@@ -37,13 +37,13 @@ export const Servicebox = [
     {
         icon: getImgPath('/images/services/ux-design-product_1.svg'),
         title: 'Starter Pack',
-        price : 'Rp 2.500.000',
+        price : 'Rp 2.800.000',
         description: 'Simple automation without the need for API integration, ideal for small tasks and streamlined workflows. Perfect for teams who want quick wins and efficiency improvements without complex setups.',
     },
     {
         icon: getImgPath('/images/services/perfomance-optimization.svg'),
         title: 'Business Pack',
-        price : 'Rp 5.000.000',
+        price : 'Rp 8.800.000',
         description: 'Advanced automation powered by API integration, designed to handle complex business tasks and workflows. Perfect for organizations that require seamless data flow, system connectivity, and high-efficiency process automation.',
     },
 ]
