@@ -54,7 +54,7 @@ export const portfolioinfo = [
         alt: 'Portfolio',
         title: 'Support Ticket Automation',
         slug: 'Cozycasa',
-        info: 'Designation',
+        info: 'Customer Support',
         Class: 'md:mt-0'
     },
     {
@@ -62,7 +62,7 @@ export const portfolioinfo = [
         alt: 'Portfolio',
         title: 'Automatic Money Management System',
         slug: 'Mars',
-        info: 'Designation',
+        info: 'Finance',
         Class: 'md:mt-24'
     },
     {
@@ -70,7 +70,7 @@ export const portfolioinfo = [
         alt: 'Portfolio',
         title: 'Scheduler Automation for Meetings',
         slug: 'everyday-humans',
-        info: 'Designation',
+        info: 'Personal Assistant',
         Class: 'md:mt-0'
     },
     {
@@ -78,7 +78,7 @@ export const portfolioinfo = [
         alt: 'Portfolio',
         title: 'Chatbot for Customer Service',
         slug: 'rocket-squared',
-        info: 'Designation',
+        info: 'Customer Service',
         Class: 'md:mt-24'
     },
     {
@@ -86,7 +86,7 @@ export const portfolioinfo = [
         alt: 'Portfolio',
         title: 'Automatic Content Generator',
         slug: 'panda-logo',
-        info: 'Designation',
+        info: 'Design & Marketing',
         Class: 'md:mt-0'
     },
     {
@@ -94,7 +94,7 @@ export const portfolioinfo = [
         alt: 'Portfolio',
         title: 'AI-powered email reply bot',
         slug: 'fusion-dynamics',
-        info: 'Designation',
+        info: 'Personal Assistant',
         Class: 'md:mt-0'
     },
     {
@@ -102,7 +102,7 @@ export const portfolioinfo = [
         alt: 'Portfolio',
         title: 'Scrape market or competitor data',
         slug: 'innovate-x-ventures',
-        info: 'Designation',
+        info: 'Data Collection',
         Class: 'md:mt-24'
     },
     {
@@ -110,7 +110,7 @@ export const portfolioinfo = [
         alt: 'Portfolio',
         title: 'Auto-sync orders between marketplace and inventory system',
         slug: 'nebula-holdings',
-        info: 'Designation',
+        info: 'Inventory Management',
         Class: 'md:mt-0'
     },
     {
@@ -118,7 +118,7 @@ export const portfolioinfo = [
         alt: 'Portfolio',
         title: 'Automated contract creation and e-signature workflows',
         slug: 'summit-partners',
-        info: 'Designation',
+        info: 'Legal',
         Class: 'md:mt-24'
     },
     {
@@ -126,7 +126,7 @@ export const portfolioinfo = [
         alt: 'Portfolio',
         title: 'Automate shift scheduling and reminders',
         slug: 'apex-strategies',
-        info: 'Designation',
+        info: 'HR Management',
         Class: 'md:mt-0'
     },
     

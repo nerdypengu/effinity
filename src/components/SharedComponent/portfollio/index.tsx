@@ -20,11 +20,11 @@ const Portfolio = () => {
           data-aos='fade-left'
           data-aos-delay='200'
           data-aos-duration='1000'>
-          Explore my portfolio showcase
+          Explore our options of auomation workflow
         </h2>
         <div className='pb-14 inline-flex'>
           <p className='text-base font-normal text-grey max-w-29 dark:text-white/50'>
-            Dive into a curated collection of my finest work, showcasing
+            Dive into a curated collection of our finest work, showcasing
             expertise across various industries.
           </p>
         </div>
